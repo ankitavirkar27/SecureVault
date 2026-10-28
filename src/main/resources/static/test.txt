@@ -1,0 +1,1 @@
+SecureVault static files are working!
